@@ -798,7 +798,7 @@ textarea {
     }
     .ui-parallax-item.n1 .appimg{
         width:212px;
-        bottom:15px;
+        bottom:-15px;
     }
     .service {
         width: 100%;
