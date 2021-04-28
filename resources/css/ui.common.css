@@ -594,7 +594,7 @@ address b {
     margin: 0 auto 100px;
     font-size: 0;
     text-align: center;
-    ;
+    padding-left:30px;
 }
 
 .list-work li {
@@ -812,6 +812,7 @@ textarea {
     transform: translate(0, 0); 
 }
 
+
 .list-work li{
     margin-left:30px;
     transition:margin 0.7s ease-out;
@@ -926,6 +927,7 @@ textarea {
     }
     .list-work{
         margin-bottom:30px;
+        padding-left:15px;
     }
     .list-work li {
         font-size: 14px;
